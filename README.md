@@ -6,4 +6,4 @@
   PokemonCategory, PokemonOwner extra Models
 
 # Diagram
-  ![alt UMLDiagram](https://github.com/arunkjojo/PokemonReviewApp/UMLDiagram.png)
+  ![alt UMLDiagram](https://github.com/arunkjojo/PokemonReviewApp/blob/master/UMLDiagram.PNG)
